@@ -1,0 +1,24 @@
+{
+  "name": "aula01",
+  "version": "1.0.0",
+  "description": "Primeira Aula - Iniciando com Node e Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasheber/tecnologias-backend.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "backend"
+  ],
+  "author": "Lucas Heber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lucasheber/tecnologias-backend/issues"
+  },
+  "homepage": "https://github.com/lucasheber/tecnologias-backend#readme"
+}
