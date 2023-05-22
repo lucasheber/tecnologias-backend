@@ -7,5 +7,5 @@ http.createServer((req, res) => {
     res.writeHead(200, { 'Content-type': 'text/plain' });
     res.end('Hello World');
 }).listen(PORT, HOSTNAME, () => {
-    console.log(`O servidor está sendo executando em ${HOSTNAME}:${PORT}`);
+    console.log(`O servidor está sendo executando em http://${HOSTNAME}:${PORT}`);
 });
